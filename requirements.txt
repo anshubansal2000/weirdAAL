@@ -7,3 +7,4 @@ s3transfer==0.3.0
 six==1.11.0
 virtualenv==15.1.0
 tabulate==0.8.2
+urllib3>=1.26.17 # not directly required, pinned by Snyk to avoid a vulnerability
